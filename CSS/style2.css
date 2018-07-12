@@ -1,0 +1,91 @@
+html, body{
+    height: 100%;
+    
+}
+
+#top {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.link2{
+    width: 100px;
+    height: 100px;
+    transition: width 1s,height 1s;
+    
+}
+
+.link2:hover{
+    width: 150px;
+    height: 150px;
+    transition: width 1s,height 1s;
+    
+}
+
+#left {
+
+    background-color: grey;
+    line-height:30px;
+    height: 1200px;
+    width: 12%;
+    float: left;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    color: black;
+    font-size: 30px;
+    font-family: "Cookie", cursive;
+    src: url(font-family/Cookie/Cookie-Regular.ttf);
+    position: fixed;
+    
+    
+}
+
+.link{
+    color: black;
+    transition: color 2s;
+    font-family: "Cookie", cursive;
+    src: url(font-family/Cookie/Cookie-Regular.ttf);
+
+}
+
+.link:hover{
+    color: red;
+    transition: color 2s;
+}
+
+
+#right {
+    width: 70%;
+    float: left;
+    padding-left: 15%; 
+}
+#bottom {
+    background-color: black;
+    color: white;
+    clear: both;
+    text-align: center;
+    width: 100%;
+    padding: 5px; 
+    font-family: "Cookie", cursive;
+    src: url(font-family/Cookie/Cookie-Regular.ttf);
+}
+
+#bottom{
+    color: white;
+    background-color: black;
+    transition: color 2s;
+    transition: background-color 2s;
+}
+
+#bottom:hover{
+    color: red;
+    background-color: grey;
+    transition: color 2s;
+    transition: background-color 2s;
+}
+
+
+
+
