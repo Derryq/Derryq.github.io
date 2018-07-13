@@ -1,0 +1,216 @@
+body{
+	margin: 0;
+    height: 100%;
+
+}
+
+#top{
+	padding-left: 10%;
+	position: fixed;
+	width: 100%;
+	margin: 0;
+	border-bottom: 1px;
+	border-top: 0;
+	border-right: 0;
+	border-left: 0;
+	border-style: solid;
+	border-color: black;
+	height: 34px;
+	color: black;
+	background-color: white;
+
+}
+
+
+
+.link0{
+	width: 90px;
+	height: 20px;
+    text-align: center;
+    border: 4px;
+    border-style: solid;
+    border-color: white;
+    transition: border-color 0.5s,background-color 0.5s;
+}
+.link0:hover{
+	border-color: white;
+	background-color: white;
+	transition: border-color 0.5s,background-color 0.5s;
+}
+.link01{
+    width: 90px;
+    height: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    transition: color 0.5s;
+    font-size: 14px;
+}
+.link01:hover{
+	color: red;
+	transition: color 0.5s;
+}
+tr{
+	top: 0;
+}
+.pic1{
+	
+	border-top: 1px;
+	border-bottom: 0.5px;
+	margin-right: 10%;
+	margin-left: 10%;
+	border-style: solid;
+	width: 80%;
+	height: 254px;
+	border-right: 0;
+	border-left: 0;
+
+}
+
+#body1{
+	
+	border-top: 35px;
+	border-bottom: 0.5px;
+	border-right: 0;
+	border-left: 0;
+	margin-right: 10%;
+	margin-left: 10%;
+	border-style: solid;
+	width: 80%;
+	height: 30px;
+	border-color: black;
+	background-color: white;
+
+
+	
+}
+
+#table2{
+	padding: 0px;
+	height: 23px
+}
+
+.link1{
+	padding: 0px;
+	border-style: solid;
+	border-bottom-width: 5px;
+	border-bottom-color: white;
+	border-top-width: 0px;
+	border-top-color: white;
+	border-right-width: 6px;
+	border-right-color: white;
+	border-left-width: 14px;
+	border-left-color: white;
+	transition: border-bottom-color 1s;
+
+}
+.link1:hover{
+	border-style: solid;
+	border-bottom-color: red;
+    transition: border-bottom-color 1s;
+}
+
+
+.link11{
+	padding: 0px;
+	text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+
+
+
+
+#body2{
+	border-top: 0.5px;
+	border-bottom: 1%;
+	border-left: 0;
+	border-right: 0;
+	margin-right: 10%;
+	margin-left: 10%;
+	border-style: solid;
+    width: 80%;
+	height: 90%;
+    background-color: white;
+}
+
+.h1{
+	margin-left: 2%;
+}
+
+.h2{
+	margin-left: 2%;
+}
+
+.h3{
+	margin-left: 3%;
+}
+
+.pic2{
+	margin: 3%;
+	width: 20%;
+	transition: width 1s;
+}
+
+.pic2:hover{
+	width: 30%;
+	transition: width 1s;
+}
+
+.pic3{
+	margin: 3%;
+	width: 30%;
+	transition: width 1s;
+}
+.pic3:hover{
+	width: 40%;
+	transition: width 1s;
+}
+
+.pic5{
+    position: fixed;
+	width: 3%;
+	float: right;
+	margin-left:3%;
+	margin-top: 0;
+	
+	
+
+}
+
+.pic6{
+	
+	width: 100%;
+}
+
+
+#contact{
+	width: 100%;
+	padding: 0.5%;
+	background-color: white;
+	height:230px;
+	bottom: 0;
+}
+
+.contact1, .contact2, .contact3{
+	width: 18%;
+	display: inline-block;
+}
+
+
+
+.picw{
+	width: 60%;
+
+	
+
+}
+.contact1{
+	margin-left: 9%;
+    margin-right: 21%;
+}
+.contact2{
+	margin-right: 20%;
+}
